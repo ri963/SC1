@@ -4,8 +4,8 @@ const UUID = process.env.UUID || '769f5181-8902-403b-b665-c849bc875c91';
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nz.tweek.gay';
 const NEZHA_PORT = process.env.NEZHA_PORT || '47026';
 const NEZHA_KEY = process.env.NEZHA_KEY || 'rX5x0DCNVS1Oi2MGES';
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'scalingo.kan12.cloudns.org';
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiMThhMjM4YmE1ODllYThmZTQ1NTc4YTkyNDdiZjFhMWIiLCJ0IjoiYTdkYjIxYjAtODA1My00NDJiLThiYmItNDVlZWYwZjJmZmI5IiwicyI6Ik1ERXdaRGxrTTJZdFltUmlOeTAwTWpFM0xXSmpOV010TkdVd1lXTTJNMk5sWkdWbCJ9';
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'https://scalingo.ka7809.link';
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiMThhMjM4YmE1ODllYThmZTQ1NTc4YTkyNDdiZjFhMWIiLCJ0IjoiZGI3MzU3ZTYtYTdmNy00M2VkLWIxMDktMGYwYzExMjRmYWU3IiwicyI6IlpEQTJNemswTnpJdE56azJNUzAwWlRSaExXRm1PVFF0WVRFNU1XUTJOVEEwTm1VeiJ9';
 const CFIP = process.env.CFIP || 'skk.moe';
 const NAME = process.env.NAME || 'Saclingo';
 
